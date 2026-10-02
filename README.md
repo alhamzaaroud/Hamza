@@ -35,4 +35,4 @@ Project: https://scratch.mit.edu/projects/1387358398/
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-The project is an interactive game where a "ball" moves on the screen and bouses of a "racket" and the edges/walls.I used the space button to start it (event) and a loop where unless it touches the "racket it keeps boucing of the walls and the score doesnt go up.
+This project is an interactive game where a ball moves across the screen and bounces off the paddle and walls. It uses a when space key pressed event to start, a forever loop to keep the ball moving, an if touching paddle condition to trigger a bounce, a score variable to keep track of points, and a custom reset_ball block to place the ball back in the center.

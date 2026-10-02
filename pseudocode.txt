@@ -6,11 +6,11 @@ Write an algorithm for ONE of these, as numbered steps, the way we wrote the pho
 Rules: at least 6 numbered lines; use at least one "if" and one loop ("go back to line N", "repeat" or "while").
 Replace the example below with your own.
 
-Set 1 to low and 100 to high
-while low is less than high:
-ask: "Is your number bigger than [guess]? (Y/N)?
-If answer is "Y" then
-set low to guess +1
-Else:
-set High to guess
-print: "your number is " + low
+1Set 1 to low and 100 to high
+2While low is less than high:
+3Ask: "Is your number bigger than [guess]? (Y/N)?
+4If answer is "Y" then
+5Set low to guess +1
+6Else:
+7Set High to guess
+8Print: "your number is " + low

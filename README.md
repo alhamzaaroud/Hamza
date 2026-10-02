@@ -31,8 +31,9 @@ Meow: (https://scratch.mit.edu/projects/1385764596)
 
 ## Part B · Your own project
 
-Project: PASTE-YOUR-PROJECT-LINK-HERE
+Project: https://scratch.mit.edu/projects/1387358398
 
 One or two sentences on what it does and which custom block, variable, loop, condition and event it uses:
 
-(write here)
+I used space as an event where it makes the "ball" bounce of walls and the "racket" as a custom block I made it so it defines when the "ball hits the "racket"
+as a loop I used a forever block to make it so it bounces of the wall and it bounces and scores when it bounces of the "racket" as a varialbe I used score which just makes it so the score increases by 1 every time it hits the "racket" and as a condition block I made it so if it hits the racket "TRUE" the score increases by 1 if not and its on edge then it just bounces of it.

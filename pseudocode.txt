@@ -6,11 +6,12 @@ Write an algorithm for ONE of these, as numbered steps, the way we wrote the pho
 Rules: at least 6 numbered lines; use at least one "if" and one loop ("go back to line N", "repeat" or "while").
 Replace the example below with your own.
 
-1Set 1 to low and 100 to high
-2While low is less than high:
-3Ask: "Is your number bigger than [guess]? (Y/N)?
-4If answer is "Y" then
-5Set low to guess +1
-6Else:
-7Set High to guess
-8Print: "your number is " + low
+1. SET low TO 1 and high TO 100
+2. WHILE low is less than high:
+3.     SET guess TO the average of (low + high), rounded down
+4.     ASK friend: "Is your number greater than [guess]?"
+5.     IF friend answers "yes" THEN:
+6.         SET low TO guess + 1
+7.     ELSE:
+8.         SET high TO guess
+9. PRINT "Your number is " + low
